@@ -341,3 +341,4 @@ AISafetyAtlas.Sovereignty.AATS
 AISafetyAtlas.Examples.Sovereignty.AATS
 AISafetyAtlas.Fairness.ApproximateRiskAssignment
 AISafetyAtlas.Examples.Fairness.ApproximateRiskAssignment
+AISafetyAtlas.Conjectures.Intake.MaisO47
